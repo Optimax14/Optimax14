@@ -62,8 +62,8 @@ I build control architectures for autonomous systems, and I care about being abl
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Optimax14/Optimax14/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/Optimax14/Optimax14/output/snake.svg" alt="Contribution snake animation" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Optimax14/Optimax14/refs/heads/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Optimax14/Optimax14/refs/heads/output/snake.svg" alt="Contribution snake animation" width="100%">
 </picture>
 
 </div>
