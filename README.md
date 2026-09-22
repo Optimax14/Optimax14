@@ -18,7 +18,7 @@
 
 ### About
 
-I build control architectures for autonomous systems, and I care about being able to *prove* they behave.
+I like to learn about cool mathematics that helps inform the way we create elegant engineering systems that are deployed in the real world.
 
 - **Research** — layered control architectures, sheaf-theoretic methods for composing autonomy stacks
 - **Applied** — machine learning for safe autonomous systems
